@@ -1,1 +1,2 @@
 # FIND-MERGE-POINT-OF-TWO-LISTS
+A singly linked list structure with node and list classes for appending integers is defined in this C# program. A print method is also included to output the list with separators. Like recognizing where two chains link together, the crucial findMergeNode method determines the lengths of two lists, advances the pointer on the longer list to match depths, and then traverses both at the same time until they meet at the merge point, returning the node's data or -1 if there isn't a merge.
